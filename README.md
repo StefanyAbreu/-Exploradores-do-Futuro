@@ -12,7 +12,11 @@ Nesta sprint, vamos criar as três primeiras páginas da história em quadrinhos
 2. **Escrever os Diálogos (2 horas)**:
    - Página 1: Mensagem urgente do futuro.
    - Página 2: Preparação para a missão.
-   - Página 3: Primeira viagem no tempo.
+   - Página 3: Prepara para a missão e ajusta os dispositivos.
+   - Página 4:Primeira viagem no tempo.
+   - Página 5: Cenário
+   - Página 6:Falha tecnológica no futuro
+   - Página 7:Cidade equiíbrada
 
 3. **Desenhar os Personagens (2 horas)**:
    - Líder, Engenheira e Historiador.
